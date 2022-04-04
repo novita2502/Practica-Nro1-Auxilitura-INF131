@@ -77,7 +77,7 @@ public class MultipleColaCMascotas {
     }
     public void llevarGatoAdelante(int i){
         //clase MultipleColacMAscotas
-        vec[i].Llenaraletoriamente();
+        vec[i].llevarGatoAdelante();
     }
     
 }
